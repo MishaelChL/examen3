@@ -1,0 +1,7 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+xenial-server-cloudimg-amd64-disk1.img
+bionic-server-cloudimg-amd64.img
+
